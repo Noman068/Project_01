@@ -2,23 +2,98 @@ public class Validator
 {
 
 
+    public static string TimeValidator(string input)
+    {
+        while (true)
+        {
+            int isValid = 0;
+            string check = "0123456789:";
+            for (int i = 0; i < input.Length; i++)
+            {
+                if (!(check.Contains(input[i])))
+                {
+                    isValid++;
+                    break;
+                }
+            }
+
+            if (input[2] != ':' || input.Length != 5)
+            {
+                isValid++;
+            }
+
+            if (isValid == 0) {
+                string[] part = input.Split(':');
+                int[] ints = new int[part.Length];
+                for (int i = 0; i < part.Length; i++)
+                {
+                    ints[i] = Convert.ToInt32(part[i]);
+                }
+                if (ints[0] < 0 || ints[0] > 23 || ints[1] < 0 || ints[1] > 59)
+                {
+                    isValid++;
+                }
+            }
+
+
+            if (isValid != 0)
+            {
+                Console.Write("Enter correct time format hh:mm : ");
+                input = Console.ReadLine();
+            } else
+            {
+                break;
+            }
+        }
+        return input;
+    }
+
+    public static string NumberValidator(string input)
+    {
+
+        while(true)
+        {
+            int isValid = 0;
+            string test = "0123456789";
+            for(int i = 0; i < input.Length; i++)
+            {
+                if (!(test.Contains(input[i])))
+                {
+                    isValid++;
+                    break;
+                }
+            }
+            if (isValid != 0)
+            {
+                Console.Write("\nInvalid Duration.Please enter a Number = ");
+                input = Console.ReadLine();
+            }
+            else
+            {
+                break;
+            }
+        }
+
+        return  input;
+
+    }
 
     public static int ChoiceValidator(string input, char minChoice , char maxChoice)
 {
         while (true)
         {
-            bool isValid = true;
+            int isValid = 0;
             for (int i = 0; i < input.Length; i++)
             {
                 char c = input[i];
                 if (!(c >= minChoice && c <= maxChoice))
                 {
-                    isValid = false;
+                    isValid++;
                     break;
                 }
 
             }
-            if (!isValid)
+            if (isValid != 0)
             {
                 Console.WriteLine($"Invalid choice! Please enter a number between {minChoice} and {maxChoice}.");
                 Console.Write("Enter your choice: ");
@@ -43,19 +118,21 @@ public class Validator
         {
 
 
-            bool isValid = true;
+            int isValid = 0;
+
+            
 
             for (int i = 0; i < name.Length; i++)
             {
                 char c = name[i];
 
-                if (!((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z' || c == ' ')))
+                if (!((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z' )))
                 {
-                    isValid = false;
+                    isValid++;
                     break;
                 }
             }
-            if (isValid)
+            if (isValid==0)
             {
                 break;
             }
@@ -80,20 +157,20 @@ public class Validator
         while (true)
         {
 
-            bool isValid = true;
+            int isValid = 0;
 
             for (int i = 0; i < date.Length; i++)
             {
                 char c = date[i];
                 if (!((c >= '0' && c <= '9') || c == '-'))
                 {
-                    isValid = false;
+                    isValid++;
                     break;
                 }
 
             }
 
-            if (date.Length == 10 && date[2] == '-' && date[5] == '-' && isValid)
+            if (date.Length == 10 && date[2] == '-' && date[5] == '-' && isValid == 0)
             {
                 string[] part = date.Split('-');
             int[] parts = new int[3];
@@ -105,13 +182,14 @@ public class Validator
             if ((parts[0] < 0 || parts[0] > 31 || parts[1] < 0 || parts[1] > 12 || parts[2] > DateTime.Now.Year + 1 || parts[2] < DateTime.Now.Year - 10 || (parts[0] == 31 && (parts[1] == 2 || parts[1] == 4 || parts[1] == 6 || parts[1] == 9 || parts[1] == 11)) || (parts[0] == 30 && parts[1] == 02) || (parts[0] == 29 && parts[1] == 02 && parts[2] % 4 != 0)))
             {
                 Console.WriteLine("There was an issue in years or mothns or days ");
-                isValid = false;
+                isValid++;
 
             }
-            if (isValid)
+            if (isValid == 0)
             {
                 return date;
             }
+
             }
 
             
