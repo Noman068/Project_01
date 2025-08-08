@@ -1,0 +1,401 @@
+David,12/12/2024,3:40,Emergency,Good Experience,Ali,12
+Emma,5/8/2025,10:30,Follow-up,Monitor BP,Dr. Zainab,60
+Emma,2/8/2025,16:45,Follow-up,Monitor BP,Dr. Usman,25
+David,1/8/2025,16:45,Follow-up,Monitor BP,Dr. Zainab,20
+Emma,1/8/2025,10:30,Consultation,Improving,Dr. Usman,20
+Bob,4/8/2025,16:45,Consultation,Critical case,Dr. Khan,30
+David,2/8/2025,10:30,Consultation,Improving,Dr. Zainab,25
+Emma,1/8/2025,16:45,Emergency,No issues,Dr. Usman,60
+Alice,4/8/2025,10:30,Consultation,Discussed symptoms,Dr. Usman,25
+Bob,1/8/2025,9:00,Consultation,Discussed symptoms,Dr. Zainab,30
+Emma,3/8/2025,14:15,Consultation,Critical case,Dr. Usman,30
+Emma,5/8/2025,10:30,Consultation,Monitor BP,Dr. Usman,45
+Alice,3/8/2025,11:00,Follow-up,Discussed symptoms,Dr. Khan,60
+Bob,5/8/2025,14:15,Consultation,No issues,Dr. Zainab,60
+Bob,2/8/2025,10:30,Follow-up,Discussed symptoms,Dr. Sara,60
+Bob,5/8/2025,16:45,Emergency,Improving,Dr. Zainab,60
+Bob,3/8/2025,14:15,Follow-up,No issues,Dr. Ali,25
+Charlie,5/8/2025,14:15,Follow-up,Critical case,Dr. Khan,25
+Charlie,5/8/2025,10:30,Follow-up,No issues,Dr. Usman,45
+Bob,1/8/2025,9:00,Follow-up,No issues,Dr. Zainab,25
+David,2/8/2025,16:45,Follow-up,Improving,Dr. Zainab,20
+Bob,1/8/2025,10:30,Emergency,No issues,Dr. Ali,20
+Bob,4/8/2025,14:15,Follow-up,Monitor BP,Dr. Khan,30
+Charlie,3/8/2025,16:45,Emergency,Monitor BP,Dr. Usman,45
+Charlie,3/8/2025,11:00,Consultation,Critical case,Dr. Usman,25
+Bob,3/8/2025,11:00,Emergency,Discussed symptoms,Dr. Ali,30
+Bob,4/8/2025,16:45,Follow-up,Monitor BP,Dr. Zainab,25
+Alice,1/8/2025,10:30,Emergency,Monitor BP,Dr. Sara,45
+David,3/8/2025,10:30,Consultation,Improving,Dr. Usman,45
+Alice,5/8/2025,16:45,Consultation,Critical case,Dr. Khan,45
+Charlie,3/8/2025,10:30,Follow-up,Critical case,Dr. Usman,30
+Emma,3/8/2025,9:00,Follow-up,Monitor BP,Dr. Sara,25
+Alice,3/8/2025,9:00,Follow-up,Monitor BP,Dr. Sara,30
+David,4/8/2025,16:45,Consultation,Critical case,Dr. Khan,30
+David,4/8/2025,14:15,Follow-up,Monitor BP,Dr. Zainab,60
+Bob,5/8/2025,10:30,Consultation,Monitor BP,Dr. Zainab,60
+Bob,2/8/2025,16:45,Follow-up,No issues,Dr. Ali,60
+Alice,4/8/2025,14:15,Follow-up,Discussed symptoms,Dr. Usman,45
+David,5/8/2025,11:00,Emergency,Critical case,Dr. Zainab,45
+Emma,2/8/2025,9:00,Emergency,No issues,Dr. Ali,30
+David,3/8/2025,10:30,Consultation,Discussed symptoms,Dr. Khan,60
+Charlie,4/8/2025,11:00,Consultation,No issues,Dr. Khan,30
+Bob,5/8/2025,14:15,Follow-up,Critical case,Dr. Sara,30
+Emma,3/8/2025,10:30,Emergency,Discussed symptoms,Dr. Zainab,25
+David,3/8/2025,9:00,Consultation,Improving,Dr. Ali,60
+David,4/8/2025,16:45,Follow-up,No issues,Dr. Zainab,25
+Charlie,3/8/2025,11:00,Consultation,Critical case,Dr. Sara,25
+David,2/8/2025,16:45,Consultation,Critical case,Dr. Usman,25
+David,1/8/2025,14:15,Follow-up,Critical case,Dr. Khan,25
+Emma,1/8/2025,11:00,Consultation,Monitor BP,Dr. Sara,45
+David,4/8/2025,11:00,Follow-up,No issues,Dr. Ali,25
+Alice,1/8/2025,16:45,Follow-up,Discussed symptoms,Dr. Ali,60
+David,4/8/2025,9:00,Follow-up,Discussed symptoms,Dr. Sara,25
+David,4/8/2025,10:30,Follow-up,Improving,Dr. Sara,60
+Charlie,5/8/2025,9:00,Consultation,Monitor BP,Dr. Ali,45
+Emma,1/8/2025,10:30,Follow-up,Critical case,Dr. Ali,30
+David,4/8/2025,14:15,Emergency,Discussed symptoms,Dr. Zainab,60
+David,1/8/2025,14:15,Follow-up,Monitor BP,Dr. Zainab,30
+Alice,3/8/2025,14:15,Consultation,Monitor BP,Dr. Khan,60
+Alice,2/8/2025,10:30,Follow-up,No issues,Dr. Usman,45
+Charlie,2/8/2025,11:00,Consultation,Critical case,Dr. Usman,30
+Bob,4/8/2025,11:00,Follow-up,Discussed symptoms,Dr. Khan,30
+Charlie,5/8/2025,16:45,Follow-up,Discussed symptoms,Dr. Ali,20
+Charlie,5/8/2025,11:00,Follow-up,Improving,Dr. Khan,60
+Emma,4/8/2025,11:00,Consultation,Critical case,Dr. Khan,25
+Emma,1/8/2025,16:45,Emergency,Monitor BP,Dr. Ali,30
+Bob,2/8/2025,11:00,Consultation,Critical case,Dr. Khan,20
+David,5/8/2025,11:00,Emergency,Critical case,Dr. Khan,45
+Alice,2/8/2025,10:30,Follow-up,No issues,Dr. Khan,30
+Bob,1/8/2025,16:45,Emergency,Critical case,Dr. Zainab,30
+Bob,5/8/2025,14:15,Follow-up,Discussed symptoms,Dr. Sara,30
+Alice,4/8/2025,14:15,Consultation,Discussed symptoms,Dr. Zainab,20
+Bob,5/8/2025,16:45,Follow-up,Improving,Dr. Khan,25
+David,4/8/2025,16:45,Emergency,Improving,Dr. Ali,30
+Emma,2/8/2025,9:00,Emergency,Critical case,Dr. Zainab,45
+David,3/8/2025,10:30,Emergency,Monitor BP,Dr. Zainab,60
+David,4/8/2025,14:15,Follow-up,No issues,Dr. Sara,45
+Charlie,5/8/2025,16:45,Consultation,No issues,Dr. Zainab,20
+Alice,3/8/2025,14:15,Follow-up,Critical case,Dr. Sara,25
+David,2/8/2025,9:00,Follow-up,Improving,Dr. Ali,30
+Charlie,4/8/2025,10:30,Follow-up,Improving,Dr. Ali,60
+Charlie,1/8/2025,14:15,Emergency,Improving,Dr. Ali,25
+Charlie,3/8/2025,10:30,Emergency,Discussed symptoms,Dr. Usman,30
+Charlie,2/8/2025,14:15,Follow-up,Discussed symptoms,Dr. Ali,20
+Emma,5/8/2025,16:45,Follow-up,Monitor BP,Dr. Sara,30
+Charlie,1/8/2025,11:00,Consultation,Monitor BP,Dr. Sara,60
+Emma,1/8/2025,14:15,Consultation,Improving,Dr. Khan,20
+Emma,2/8/2025,10:30,Follow-up,Improving,Dr. Sara,60
+Emma,1/8/2025,14:15,Emergency,Discussed symptoms,Dr. Usman,25
+Alice,4/8/2025,16:45,Follow-up,Improving,Dr. Sara,25
+Emma,1/8/2025,14:15,Emergency,No issues,Dr. Zainab,60
+Charlie,1/8/2025,9:00,Emergency,Improving,Dr. Usman,30
+Emma,4/8/2025,11:00,Consultation,Discussed symptoms,Dr. Usman,25
+Emma,5/8/2025,16:45,Consultation,Monitor BP,Dr. Ali,20
+Alice,4/8/2025,10:30,Consultation,No issues,Dr. Khan,45
+David,3/8/2025,14:15,Emergency,No issues,Dr. Sara,60
+Emma,2/8/2025,10:30,Follow-up,Improving,Dr. Khan,30
+Emma,4/8/2025,10:30,Consultation,Critical case,Dr. Zainab,25
+Alice,5/8/2025,14:15,Follow-up,Discussed symptoms,Dr. Ali,45
+Charlie,5/8/2025,10:30,Consultation,Discussed symptoms,Dr. Sara,20
+Alice,3/8/2025,9:00,Emergency,Discussed symptoms,Dr. Ali,25
+Charlie,5/8/2025,10:30,Follow-up,Improving,Dr. Usman,45
+Alice,5/8/2025,14:15,Emergency,No issues,Dr. Khan,60
+Bob,3/8/2025,11:00,Emergency,Discussed symptoms,Dr. Zainab,30
+Emma,5/8/2025,14:15,Consultation,Improving,Dr. Usman,20
+Emma,5/8/2025,14:15,Follow-up,Improving,Dr. Usman,60
+David,5/8/2025,11:00,Consultation,Improving,Dr. Sara,30
+Emma,4/8/2025,14:15,Follow-up,Monitor BP,Dr. Zainab,30
+Emma,3/8/2025,14:15,Consultation,Monitor BP,Dr. Ali,20
+Alice,4/8/2025,14:15,Follow-up,Discussed symptoms,Dr. Zainab,45
+Charlie,2/8/2025,9:00,Consultation,Improving,Dr. Ali,60
+Charlie,4/8/2025,10:30,Consultation,Monitor BP,Dr. Zainab,30
+Bob,3/8/2025,10:30,Follow-up,Improving,Dr. Sara,25
+David,1/8/2025,11:00,Emergency,No issues,Dr. Zainab,45
+Emma,4/8/2025,14:15,Follow-up,Critical case,Dr. Zainab,30
+David,1/8/2025,16:45,Consultation,No issues,Dr. Ali,30
+Emma,5/8/2025,10:30,Consultation,Monitor BP,Dr. Usman,45
+Emma,5/8/2025,16:45,Emergency,No issues,Dr. Sara,60
+Alice,3/8/2025,9:00,Emergency,Monitor BP,Dr. Sara,20
+Emma,2/8/2025,10:30,Consultation,Critical case,Dr. Ali,45
+Charlie,1/8/2025,10:30,Consultation,Discussed symptoms,Dr. Khan,25
+Alice,5/8/2025,10:30,Consultation,No issues,Dr. Usman,45
+Charlie,4/8/2025,14:15,Emergency,Improving,Dr. Khan,25
+Bob,1/8/2025,16:45,Consultation,Critical case,Dr. Khan,45
+Emma,5/8/2025,9:00,Consultation,Critical case,Dr. Sara,45
+Charlie,2/8/2025,11:00,Consultation,No issues,Dr. Ali,25
+Emma,3/8/2025,14:15,Consultation,Discussed symptoms,Dr. Usman,25
+Alice,3/8/2025,11:00,Consultation,Monitor BP,Dr. Ali,45
+David,1/8/2025,11:00,Emergency,Critical case,Dr. Sara,30
+Alice,4/8/2025,11:00,Follow-up,Discussed symptoms,Dr. Ali,20
+David,5/8/2025,16:45,Consultation,Monitor BP,Dr. Usman,45
+Charlie,2/8/2025,9:00,Emergency,Improving,Dr. Sara,60
+Alice,5/8/2025,14:15,Follow-up,No issues,Dr. Ali,20
+Bob,3/8/2025,14:15,Emergency,Critical case,Dr. Usman,60
+Alice,4/8/2025,9:00,Emergency,Critical case,Dr. Khan,20
+David,4/8/2025,9:00,Emergency,Monitor BP,Dr. Sara,20
+Emma,2/8/2025,14:15,Follow-up,Monitor BP,Dr. Zainab,60
+Charlie,3/8/2025,11:00,Consultation,Discussed symptoms,Dr. Zainab,25
+Charlie,5/8/2025,16:45,Emergency,Monitor BP,Dr. Ali,20
+Charlie,2/8/2025,10:30,Emergency,Critical case,Dr. Sara,25
+Emma,3/8/2025,9:00,Emergency,Discussed symptoms,Dr. Usman,25
+Charlie,3/8/2025,10:30,Consultation,Discussed symptoms,Dr. Zainab,45
+David,5/8/2025,10:30,Emergency,No issues,Dr. Khan,45
+David,2/8/2025,14:15,Consultation,Monitor BP,Dr. Ali,20
+Charlie,1/8/2025,10:30,Consultation,Improving,Dr. Khan,60
+Alice,4/8/2025,11:00,Consultation,No issues,Dr. Zainab,25
+David,3/8/2025,14:15,Emergency,No issues,Dr. Ali,30
+Emma,4/8/2025,10:30,Consultation,Improving,Dr. Khan,25
+Emma,5/8/2025,10:30,Emergency,No issues,Dr. Ali,25
+David,5/8/2025,10:30,Consultation,Improving,Dr. Ali,60
+Emma,5/8/2025,16:45,Consultation,Discussed symptoms,Dr. Sara,45
+Emma,5/8/2025,9:00,Consultation,Monitor BP,Dr. Khan,30
+Charlie,3/8/2025,16:45,Emergency,Monitor BP,Dr. Khan,60
+Charlie,3/8/2025,11:00,Emergency,Monitor BP,Dr. Zainab,45
+Charlie,2/8/2025,11:00,Emergency,Monitor BP,Dr. Ali,60
+Charlie,3/8/2025,16:45,Consultation,Improving,Dr. Sara,20
+Alice,5/8/2025,14:15,Follow-up,Improving,Dr. Zainab,20
+Emma,1/8/2025,10:30,Emergency,Discussed symptoms,Dr. Zainab,20
+Bob,3/8/2025,14:15,Follow-up,Discussed symptoms,Dr. Khan,45
+Emma,5/8/2025,10:30,Consultation,Improving,Dr. Ali,60
+Emma,5/8/2025,9:00,Emergency,Discussed symptoms,Dr. Khan,25
+David,5/8/2025,11:00,Follow-up,Critical case,Dr. Ali,20
+Alice,1/8/2025,16:45,Emergency,No issues,Dr. Zainab,25
+Alice,1/8/2025,11:00,Follow-up,Critical case,Dr. Zainab,60
+Bob,2/8/2025,14:15,Emergency,Monitor BP,Dr. Sara,25
+Alice,2/8/2025,14:15,Emergency,No issues,Dr. Zainab,60
+Emma,3/8/2025,16:45,Follow-up,No issues,Dr. Usman,45
+Alice,4/8/2025,9:00,Emergency,Discussed symptoms,Dr. Sara,60
+Alice,5/8/2025,10:30,Follow-up,Monitor BP,Dr. Sara,45
+Emma,4/8/2025,9:00,Emergency,Critical case,Dr. Zainab,30
+Charlie,4/8/2025,11:00,Consultation,Discussed symptoms,Dr. Usman,60
+David,3/8/2025,10:30,Consultation,Monitor BP,Dr. Ali,30
+Emma,3/8/2025,10:30,Emergency,Monitor BP,Dr. Khan,45
+Bob,2/8/2025,11:00,Emergency,Discussed symptoms,Dr. Usman,30
+David,4/8/2025,9:00,Consultation,Discussed symptoms,Dr. Zainab,60
+Bob,1/8/2025,14:15,Emergency,Critical case,Dr. Sara,20
+Emma,5/8/2025,14:15,Consultation,Discussed symptoms,Dr. Sara,45
+Bob,4/8/2025,14:15,Consultation,Monitor BP,Dr. Ali,25
+Bob,3/8/2025,10:30,Emergency,Critical case,Dr. Sara,30
+Charlie,4/8/2025,9:00,Consultation,Improving,Dr. Sara,60
+Emma,5/8/2025,11:00,Follow-up,Critical case,Dr. Usman,20
+David,2/8/2025,9:00,Consultation,No issues,Dr. Khan,25
+David,5/8/2025,14:15,Follow-up,Discussed symptoms,Dr. Ali,60
+Alice,5/8/2025,9:00,Follow-up,No issues,Dr. Usman,20
+Emma,5/8/2025,14:15,Consultation,Improving,Dr. Sara,45
+Emma,3/8/2025,14:15,Emergency,Monitor BP,Dr. Ali,60
+Emma,4/8/2025,11:00,Emergency,Critical case,Dr. Zainab,60
+Alice,3/8/2025,9:00,Follow-up,Monitor BP,Dr. Usman,30
+Alice,2/8/2025,14:15,Follow-up,Critical case,Dr. Ali,60
+Bob,1/8/2025,10:30,Follow-up,No issues,Dr. Ali,30
+David,4/8/2025,16:45,Emergency,Discussed symptoms,Dr. Zainab,25
+Alice,5/8/2025,11:00,Consultation,Monitor BP,Dr. Zainab,60
+David,3/8/2025,9:00,Follow-up,No issues,Dr. Khan,45
+Alice,4/8/2025,9:00,Emergency,Critical case,Dr. Sara,30
+Alice,4/8/2025,11:00,Follow-up,No issues,Dr. Khan,20
+Bob,3/8/2025,14:15,Consultation,No issues,Dr. Zainab,25
+Alice,4/8/2025,11:00,Emergency,Discussed symptoms,Dr. Ali,30
+Alice,2/8/2025,16:45,Emergency,Improving,Dr. Zainab,20
+David,1/8/2025,11:00,Follow-up,No issues,Dr. Khan,45
+Charlie,5/8/2025,11:00,Emergency,Critical case,Dr. Sara,25
+Charlie,4/8/2025,10:30,Emergency,Monitor BP,Dr. Zainab,60
+David,1/8/2025,9:00,Consultation,No issues,Dr. Usman,45
+Bob,5/8/2025,14:15,Follow-up,Critical case,Dr. Ali,25
+Emma,5/8/2025,9:00,Consultation,Monitor BP,Dr. Sara,20
+Emma,3/8/2025,11:00,Emergency,Monitor BP,Dr. Usman,45
+Alice,5/8/2025,14:15,Follow-up,Discussed symptoms,Dr. Zainab,25
+Bob,4/8/2025,16:45,Follow-up,No issues,Dr. Ali,25
+Bob,5/8/2025,16:45,Consultation,Improving,Dr. Khan,30
+Alice,1/8/2025,11:00,Emergency,No issues,Dr. Khan,45
+Charlie,1/8/2025,10:30,Emergency,Critical case,Dr. Ali,30
+Emma,4/8/2025,10:30,Follow-up,Monitor BP,Dr. Usman,30
+Emma,2/8/2025,16:45,Emergency,Discussed symptoms,Dr. Zainab,60
+Bob,4/8/2025,9:00,Follow-up,Monitor BP,Dr. Usman,60
+Emma,4/8/2025,9:00,Emergency,Discussed symptoms,Dr. Khan,20
+David,4/8/2025,9:00,Follow-up,No issues,Dr. Sara,60
+Emma,2/8/2025,9:00,Consultation,Discussed symptoms,Dr. Zainab,20
+Emma,2/8/2025,16:45,Consultation,Monitor BP,Dr. Sara,25
+Charlie,4/8/2025,14:15,Consultation,Monitor BP,Dr. Khan,25
+David,4/8/2025,9:00,Follow-up,Improving,Dr. Khan,20
+Emma,1/8/2025,11:00,Emergency,Monitor BP,Dr. Sara,30
+Charlie,4/8/2025,9:00,Emergency,Discussed symptoms,Dr. Sara,25
+Bob,3/8/2025,10:30,Follow-up,Improving,Dr. Zainab,45
+Charlie,5/8/2025,14:15,Follow-up,Critical case,Dr. Zainab,60
+Charlie,5/8/2025,14:15,Emergency,Critical case,Dr. Usman,20
+Bob,3/8/2025,10:30,Consultation,Discussed symptoms,Dr. Ali,60
+Bob,2/8/2025,14:15,Consultation,Monitor BP,Dr. Ali,30
+Charlie,4/8/2025,11:00,Consultation,Monitor BP,Dr. Zainab,20
+Alice,3/8/2025,11:00,Follow-up,No issues,Dr. Zainab,30
+Bob,4/8/2025,11:00,Consultation,Monitor BP,Dr. Usman,60
+Emma,2/8/2025,10:30,Consultation,Monitor BP,Dr. Sara,45
+Charlie,3/8/2025,11:00,Emergency,Monitor BP,Dr. Zainab,20
+Emma,1/8/2025,10:30,Emergency,No issues,Dr. Sara,30
+Bob,1/8/2025,16:45,Emergency,Monitor BP,Dr. Khan,60
+David,4/8/2025,11:00,Consultation,Discussed symptoms,Dr. Usman,20
+Charlie,3/8/2025,9:00,Follow-up,Improving,Dr. Khan,60
+Emma,4/8/2025,11:00,Consultation,No issues,Dr. Usman,30
+Emma,2/8/2025,11:00,Emergency,Monitor BP,Dr. Khan,25
+Charlie,1/8/2025,10:30,Consultation,Critical case,Dr. Sara,20
+Bob,2/8/2025,9:00,Emergency,No issues,Dr. Usman,20
+Charlie,2/8/2025,11:00,Emergency,No issues,Dr. Ali,60
+Charlie,1/8/2025,16:45,Consultation,Improving,Dr. Sara,20
+Bob,5/8/2025,10:30,Follow-up,Critical case,Dr. Ali,20
+Emma,4/8/2025,9:00,Consultation,Improving,Dr. Usman,30
+Charlie,2/8/2025,10:30,Emergency,Discussed symptoms,Dr. Usman,20
+Emma,5/8/2025,16:45,Follow-up,No issues,Dr. Zainab,60
+Emma,4/8/2025,16:45,Follow-up,Critical case,Dr. Usman,20
+Bob,4/8/2025,14:15,Emergency,No issues,Dr. Sara,60
+David,4/8/2025,11:00,Follow-up,Discussed symptoms,Dr. Khan,60
+Emma,2/8/2025,16:45,Consultation,No issues,Dr. Usman,45
+David,4/8/2025,11:00,Emergency,Monitor BP,Dr. Sara,20
+Charlie,5/8/2025,11:00,Follow-up,Discussed symptoms,Dr. Zainab,20
+Bob,1/8/2025,11:00,Follow-up,Monitor BP,Dr. Ali,60
+Alice,5/8/2025,16:45,Emergency,Discussed symptoms,Dr. Khan,30
+Charlie,4/8/2025,10:30,Emergency,No issues,Dr. Ali,30
+Alice,2/8/2025,16:45,Emergency,Critical case,Dr. Usman,25
+David,2/8/2025,11:00,Consultation,No issues,Dr. Ali,20
+Alice,2/8/2025,9:00,Emergency,Monitor BP,Dr. Khan,60
+Charlie,1/8/2025,11:00,Emergency,Improving,Dr. Sara,20
+David,4/8/2025,10:30,Follow-up,Monitor BP,Dr. Ali,60
+Alice,3/8/2025,10:30,Emergency,Monitor BP,Dr. Ali,45
+Emma,5/8/2025,9:00,Consultation,Improving,Dr. Khan,25
+Alice,1/8/2025,9:00,Follow-up,Improving,Dr. Ali,30
+Emma,1/8/2025,9:00,Consultation,Critical case,Dr. Zainab,25
+David,2/8/2025,11:00,Emergency,Improving,Dr. Khan,30
+Charlie,4/8/2025,11:00,Emergency,Monitor BP,Dr. Sara,25
+Emma,1/8/2025,11:00,Emergency,No issues,Dr. Khan,20
+David,3/8/2025,14:15,Emergency,Discussed symptoms,Dr. Sara,20
+Alice,4/8/2025,14:15,Emergency,Monitor BP,Dr. Sara,30
+Bob,4/8/2025,16:45,Consultation,No issues,Dr. Ali,60
+Emma,4/8/2025,11:00,Consultation,Monitor BP,Dr. Sara,60
+Alice,1/8/2025,14:15,Consultation,Improving,Dr. Zainab,60
+Bob,3/8/2025,11:00,Consultation,Discussed symptoms,Dr. Khan,45
+Emma,1/8/2025,14:15,Follow-up,Monitor BP,Dr. Zainab,25
+Emma,3/8/2025,10:30,Consultation,No issues,Dr. Ali,30
+Alice,1/8/2025,16:45,Follow-up,Discussed symptoms,Dr. Ali,60
+Emma,5/8/2025,9:00,Follow-up,Discussed symptoms,Dr. Ali,45
+Alice,3/8/2025,9:00,Consultation,No issues,Dr. Usman,25
+Charlie,5/8/2025,11:00,Consultation,Monitor BP,Dr. Zainab,25
+David,4/8/2025,16:45,Consultation,Discussed symptoms,Dr. Usman,20
+Emma,2/8/2025,14:15,Consultation,Discussed symptoms,Dr. Ali,20
+Alice,4/8/2025,10:30,Follow-up,Improving,Dr. Khan,20
+Emma,2/8/2025,10:30,Follow-up,No issues,Dr. Zainab,30
+Bob,4/8/2025,14:15,Emergency,Improving,Dr. Khan,30
+David,1/8/2025,14:15,Follow-up,Monitor BP,Dr. Zainab,60
+David,3/8/2025,10:30,Emergency,No issues,Dr. Usman,60
+Charlie,4/8/2025,9:00,Emergency,Discussed symptoms,Dr. Zainab,25
+David,2/8/2025,14:15,Follow-up,Monitor BP,Dr. Zainab,20
+Emma,5/8/2025,14:15,Consultation,Improving,Dr. Sara,25
+David,3/8/2025,14:15,Follow-up,Monitor BP,Dr. Usman,60
+Emma,3/8/2025,16:45,Consultation,Discussed symptoms,Dr. Zainab,25
+Alice,2/8/2025,16:45,Emergency,Improving,Dr. Sara,30
+Emma,5/8/2025,11:00,Emergency,Critical case,Dr. Zainab,45
+Charlie,1/8/2025,11:00,Consultation,No issues,Dr. Sara,25
+Alice,1/8/2025,11:00,Consultation,Monitor BP,Dr. Ali,60
+Emma,1/8/2025,10:30,Emergency,No issues,Dr. Khan,30
+David,5/8/2025,10:30,Follow-up,Critical case,Dr. Sara,30
+Emma,3/8/2025,11:00,Consultation,Critical case,Dr. Sara,60
+David,1/8/2025,14:15,Consultation,No issues,Dr. Zainab,45
+Bob,4/8/2025,16:45,Emergency,Critical case,Dr. Khan,60
+Alice,2/8/2025,10:30,Consultation,Monitor BP,Dr. Khan,45
+Bob,2/8/2025,9:00,Emergency,Discussed symptoms,Dr. Usman,30
+Emma,2/8/2025,9:00,Consultation,Monitor BP,Dr. Zainab,30
+David,3/8/2025,10:30,Emergency,No issues,Dr. Khan,45
+David,3/8/2025,11:00,Follow-up,Discussed symptoms,Dr. Zainab,30
+David,2/8/2025,10:30,Consultation,Critical case,Dr. Usman,20
+David,5/8/2025,14:15,Consultation,Monitor BP,Dr. Sara,25
+Alice,4/8/2025,14:15,Emergency,Monitor BP,Dr. Khan,60
+Bob,4/8/2025,16:45,Emergency,Monitor BP,Dr. Sara,60
+Alice,4/8/2025,11:00,Follow-up,Critical case,Dr. Khan,30
+Alice,3/8/2025,10:30,Follow-up,Monitor BP,Dr. Ali,60
+Bob,5/8/2025,10:30,Consultation,Critical case,Dr. Khan,30
+David,3/8/2025,16:45,Follow-up,Discussed symptoms,Dr. Sara,20
+David,2/8/2025,11:00,Consultation,Discussed symptoms,Dr. Ali,25
+Alice,2/8/2025,9:00,Emergency,Improving,Dr. Sara,20
+Bob,5/8/2025,11:00,Consultation,Critical case,Dr. Ali,25
+Charlie,2/8/2025,11:00,Consultation,Critical case,Dr. Zainab,20
+Charlie,3/8/2025,9:00,Follow-up,Critical case,Dr. Zainab,20
+David,5/8/2025,9:00,Follow-up,Improving,Dr. Zainab,20
+Alice,4/8/2025,10:30,Follow-up,Improving,Dr. Ali,20
+Alice,1/8/2025,16:45,Emergency,Improving,Dr. Khan,45
+David,4/8/2025,9:00,Consultation,Improving,Dr. Usman,45
+Emma,2/8/2025,14:15,Consultation,Monitor BP,Dr. Ali,30
+Bob,3/8/2025,11:00,Emergency,No issues,Dr. Usman,30
+Emma,5/8/2025,16:45,Follow-up,No issues,Dr. Khan,45
+Alice,3/8/2025,14:15,Follow-up,No issues,Dr. Ali,60
+Charlie,1/8/2025,11:00,Follow-up,Critical case,Dr. Khan,60
+Emma,3/8/2025,14:15,Consultation,Improving,Dr. Sara,25
+David,3/8/2025,14:15,Consultation,Improving,Dr. Ali,20
+David,2/8/2025,14:15,Emergency,Monitor BP,Dr. Khan,45
+Alice,5/8/2025,9:00,Consultation,Critical case,Dr. Zainab,60
+Charlie,4/8/2025,9:00,Follow-up,Monitor BP,Dr. Sara,25
+Alice,4/8/2025,11:00,Follow-up,Critical case,Dr. Sara,45
+Emma,4/8/2025,10:30,Follow-up,Improving,Dr. Sara,30
+Charlie,1/8/2025,11:00,Consultation,Critical case,Dr. Usman,60
+Bob,2/8/2025,16:45,Emergency,Monitor BP,Dr. Khan,20
+Bob,3/8/2025,10:30,Follow-up,Monitor BP,Dr. Usman,25
+Alice,3/8/2025,11:00,Follow-up,Improving,Dr. Ali,45
+Alice,1/8/2025,10:30,Consultation,Improving,Dr. Zainab,20
+Emma,3/8/2025,11:00,Consultation,Discussed symptoms,Dr. Sara,60
+David,2/8/2025,10:30,Follow-up,Improving,Dr. Sara,30
+Charlie,2/8/2025,10:30,Emergency,No issues,Dr. Ali,60
+Emma,4/8/2025,11:00,Consultation,Improving,Dr. Khan,45
+Emma,3/8/2025,16:45,Follow-up,Critical case,Dr. Usman,20
+David,5/8/2025,9:00,Emergency,Discussed symptoms,Dr. Zainab,45
+Charlie,5/8/2025,10:30,Follow-up,Improving,Dr. Khan,20
+Emma,3/8/2025,9:00,Follow-up,No issues,Dr. Zainab,30
+Bob,1/8/2025,9:00,Follow-up,No issues,Dr. Ali,30
+Bob,5/8/2025,14:15,Emergency,No issues,Dr. Sara,30
+Bob,2/8/2025,14:15,Follow-up,Improving,Dr. Sara,45
+Bob,1/8/2025,14:15,Emergency,Monitor BP,Dr. Ali,30
+David,1/8/2025,10:30,Follow-up,No issues,Dr. Khan,20
+Bob,4/8/2025,14:15,Follow-up,Critical case,Dr. Usman,25
+Charlie,2/8/2025,11:00,Emergency,No issues,Dr. Khan,25
+Bob,4/8/2025,9:00,Consultation,Monitor BP,Dr. Ali,30
+Charlie,4/8/2025,10:30,Consultation,No issues,Dr. Usman,60
+Bob,2/8/2025,10:30,Consultation,Monitor BP,Dr. Khan,60
+David,1/8/2025,14:15,Follow-up,Critical case,Dr. Usman,20
+David,4/8/2025,14:15,Emergency,Discussed symptoms,Dr. Khan,60
+Alice,5/8/2025,11:00,Consultation,No issues,Dr. Zainab,30
+Alice,3/8/2025,11:00,Follow-up,Improving,Dr. Zainab,45
+David,4/8/2025,16:45,Emergency,Discussed symptoms,Dr. Ali,30
+David,5/8/2025,11:00,Consultation,No issues,Dr. Ali,20
+Alice,1/8/2025,10:30,Follow-up,Critical case,Dr. Ali,60
+David,4/8/2025,10:30,Emergency,Improving,Dr. Sara,30
+Bob,4/8/2025,14:15,Emergency,No issues,Dr. Sara,60
+Alice,4/8/2025,10:30,Follow-up,Improving,Dr. Khan,30
+Charlie,1/8/2025,11:00,Consultation,Discussed symptoms,Dr. Khan,30
+David,2/8/2025,10:30,Emergency,Improving,Dr. Sara,60
+Bob,2/8/2025,14:15,Consultation,Critical case,Dr. Usman,60
+Bob,2/8/2025,10:30,Consultation,Critical case,Dr. Sara,45
+Emma,2/8/2025,14:15,Follow-up,Critical case,Dr. Usman,20
+Charlie,2/8/2025,14:15,Consultation,Improving,Dr. Zainab,25
+Charlie,4/8/2025,10:30,Emergency,No issues,Dr. Usman,60
+Alice,2/8/2025,11:00,Consultation,Improving,Dr. Sara,60
+Charlie,3/8/2025,16:45,Emergency,Monitor BP,Dr. Sara,60
+Alice,2/8/2025,14:15,Emergency,No issues,Dr. Ali,25
+Bob,1/8/2025,14:15,Follow-up,Discussed symptoms,Dr. Ali,25
+Emma,2/8/2025,10:30,Emergency,Monitor BP,Dr. Ali,60
+David,4/8/2025,10:30,Emergency,Discussed symptoms,Dr. Ali,45
+Charlie,5/8/2025,9:00,Emergency,Discussed symptoms,Dr. Khan,30
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,

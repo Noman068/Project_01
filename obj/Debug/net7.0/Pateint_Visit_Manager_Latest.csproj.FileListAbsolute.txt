@@ -1,0 +1,14 @@
+C:\Users\6612\source\repos\Pateint_Visit_Manager_Latest\Pateint_Visit_Manager_Latest\obj\Debug\net7.0\Pateint_Visit_Manager_Latest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6612\source\repos\Pateint_Visit_Manager_Latest\Pateint_Visit_Manager_Latest\obj\Debug\net7.0\Pateint_Visit_Manager_Latest.AssemblyInfoInputs.cache
+C:\Users\6612\source\repos\Pateint_Visit_Manager_Latest\Pateint_Visit_Manager_Latest\obj\Debug\net7.0\Pateint_Visit_Manager_Latest.AssemblyInfo.cs
+C:\Users\6612\source\repos\Pateint_Visit_Manager_Latest\Pateint_Visit_Manager_Latest\obj\Debug\net7.0\Pateint_Visit_Manager_Latest.csproj.CoreCompileInputs.cache
+C:\Users\6612\source\repos\Pateint_Visit_Manager_Latest\Pateint_Visit_Manager_Latest\bin\Debug\net7.0\Pateint_Visit_Manager_Latest.exe
+C:\Users\6612\source\repos\Pateint_Visit_Manager_Latest\Pateint_Visit_Manager_Latest\bin\Debug\net7.0\Pateint_Visit_Manager_Latest.deps.json
+C:\Users\6612\source\repos\Pateint_Visit_Manager_Latest\Pateint_Visit_Manager_Latest\bin\Debug\net7.0\Pateint_Visit_Manager_Latest.runtimeconfig.json
+C:\Users\6612\source\repos\Pateint_Visit_Manager_Latest\Pateint_Visit_Manager_Latest\bin\Debug\net7.0\Pateint_Visit_Manager_Latest.dll
+C:\Users\6612\source\repos\Pateint_Visit_Manager_Latest\Pateint_Visit_Manager_Latest\bin\Debug\net7.0\Pateint_Visit_Manager_Latest.pdb
+C:\Users\6612\source\repos\Pateint_Visit_Manager_Latest\Pateint_Visit_Manager_Latest\obj\Debug\net7.0\Pateint_Visit_Manager_Latest.dll
+C:\Users\6612\source\repos\Pateint_Visit_Manager_Latest\Pateint_Visit_Manager_Latest\obj\Debug\net7.0\refint\Pateint_Visit_Manager_Latest.dll
+C:\Users\6612\source\repos\Pateint_Visit_Manager_Latest\Pateint_Visit_Manager_Latest\obj\Debug\net7.0\Pateint_Visit_Manager_Latest.pdb
+C:\Users\6612\source\repos\Pateint_Visit_Manager_Latest\Pateint_Visit_Manager_Latest\obj\Debug\net7.0\Pateint_Visit_Manager_Latest.genruntimeconfig.cache
+C:\Users\6612\source\repos\Pateint_Visit_Manager_Latest\Pateint_Visit_Manager_Latest\obj\Debug\net7.0\ref\Pateint_Visit_Manager_Latest.dll
